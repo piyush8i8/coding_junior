@@ -1,17 +1,15 @@
 # CodingJunior
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
 ## Video Demonstration
 
 <h1>I have uploaded demo video in the directory<h1>
 
 
-> To embed the video, you need to upload it to Google Drive and replace `YOUR_VIDEO_ID` with the actual video ID from the shared Google Drive link. You can extract this ID from the URL after you set the video to public.
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+
+
 
 ### Resources
 
