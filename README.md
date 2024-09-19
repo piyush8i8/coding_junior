@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+<img src="[path/to/video.gif](https://drive.google.com/drive/u/0/home)" width="600" height="400" />
+
 
 A few resources to get you started if this is your first Flutter project:
 
